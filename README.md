@@ -1,7 +1,7 @@
 ##  Hi, I’m Rakshya ✨
 
 # 💫 About Me:
-##  Hi, I’m Rakshya ✨<br><br>🎓 BIT student passionate about coding and designing.<br>💻 Skilled in Django (Python) for backend development<br>🌱 Currently learning React to strengthen my frontend skills<br>🚀 Building full-stack projects to apply and grow my knowledge<br>🌱 Always eager to learn and explore new technologies<br>🤝 Open to collaboration on exciting projects.<br>
+## 🎓 BIT student passionate about coding and designing.<br>💻 Skilled in Django (Python) for backend development<br>🌱 Currently learning React to strengthen my frontend skills<br>🚀 Building full-stack projects to apply and grow my knowledge<br>🌱 Always eager to learn and explore new technologies<br>🤝 Open to collaboration on exciting projects.<br>
 
 
 ## 🌐 Socials:
