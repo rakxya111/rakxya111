@@ -1,7 +1,7 @@
 ##  Hi, I’m Rakshya ✨
 
 # 💫 About Me:
-## BIT student passionate about coding and software quality.<br>💻 Skilled in Python for backend development<br>🧪 Exploring QA and testing to ensure software reliability, stability, and excellent user experience.<br>🚀 Building projects that combine development and testing to grow my skills in both areas.<br>🌱 Always eager to learn and explore new technologies<br>🤝 Open to collaboration on exciting projects.<br>
+## 🎓 BIT student passionate about coding and software quality.<br>💻 Skilled in Python for backend development<br>🧪 Exploring QA and testing to ensure software reliability, stability, and excellent user experience.<br>🚀 Building projects that combine development and testing to grow my skills in both areas.<br>🌱 Always eager to learn and explore new technologies<br>🤝 Open to collaboration on exciting projects.<br>
 
 
 ## 🌐 Socials:
