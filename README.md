@@ -24,10 +24,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakxya111&layout=compact&theme=tokyonight)
 
+---
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rakxya111&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=rakxya111&limit=5&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rakxya111&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://visitcount.itsvg.in/api?id=rakxya111&icon=0&color=6)
