@@ -18,17 +18,10 @@
   
 # 📊 GitHub Stats:
 
-![Rakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakxya111&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=rakxya111&theme=tokyonight)
+
+![Rakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakxya111&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakxya111&layout=compact&theme=tokyonight)
 
----
 
-### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=rakxya111&limit=5&theme=tokyonight)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=rakxya111&icon=0&color=6)
