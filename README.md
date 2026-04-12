@@ -20,8 +20,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rakxya111&theme=tokyonight)
 
-![Rakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakxya111&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakxya111&layout=compact&theme=tokyonight)
 
 
