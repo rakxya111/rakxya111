@@ -1,9 +1,9 @@
 ##  Hi, I’m Rakshya Bhuju (Rox) ✨
 
 # 💫 About Me:
-🎓 BIT Undergraduate passionate about software development and quality assurance.<br>
-💻 Strong foundation in Python and React.<br>
+🎓 BIT Graduate passionate about software development and quality assurance.<br>
 🧪 Exploring QA and testing to build reliable, high-quality software.<br>
+💻 Strong foundation in Python and Reac<br>
 🚀 Building projects that integrate development and testing.<br>
 🌱 Continuously learning and exploring new technologies.<br>
 🤝 Open to collaboration and new opportunities.<br>
