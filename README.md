@@ -1,8 +1,8 @@
 ##  Hi, I’m Rakshya Bhuju (Rox) ✨
 
 # 💫 About Me:
-🧪 Automation QA Engineer in Trainee<br>
-🎓 BIT Graduate passionate about software development and quality assurance.<br>
+🧪 Automation QA Engineer<br>
+🎓 BIT Graduate passionate about project/product management and quality assurance.<br>
 💻 Strong foundation in Python and React <br>
 🚀 Building projects that integrate development and testing.<br>
 🌱 Continuously learning and exploring new technologies.<br>
